@@ -22,5 +22,5 @@ Takeaways:
 3. Majority of the respondees were able to find employment after graduation, few pursued continuing education, and a very small percentage were unemployed.
 4. The education and resources available from college are useful but can be looked at and adjusted to further increase students overall satisfaction. 
 
-Skills
+Skills:
 Power BI, Excel, Data Cleaning, Data Analysis, Data Visualization
