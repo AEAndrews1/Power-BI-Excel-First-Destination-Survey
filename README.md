@@ -21,3 +21,6 @@ Takeaways:
 2. Majority of the respondees feel as though the support, education and resources from the school were beneficial and satisfactory.
 3. Majority of the respondees were able to find employment after graduation, few pursued continuing education, and a very small percentage were unemployed.
 4. The education and resources available from college are useful but can be looked at and adjusted to further increase students overall satisfaction. 
+
+Skills
+Power BI, Excel, Data Cleaning, Data Analysis, Data Visualization
